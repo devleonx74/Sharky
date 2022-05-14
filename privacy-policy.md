@@ -17,4 +17,4 @@
 
 # Updates to this Policy
 
-*If we change or update this Privacy Policy, we will post changes and updates to Bot Status so that you are always aware of what information we collect, *use, and disclose. We encourage you to check this policy from time to time so that you are aware of any changes or updates to the privacy policy. If you *have any questions about the policy, please contact us on our Sharky Support Server.
+If we change or update this Privacy Policy, we will post changes and updates to Bot Status so that you are always aware of what information we collect, use, and disclose. We encourage you to check this policy from time to time so that you are aware of any changes or updates to the privacy policy. If you have any questions about the policy, please contact us on our Sharky Support Server.
